@@ -4,6 +4,8 @@ return [
         'Magento_Store' => 1,
         'Magento_Directory' => 1,
         'Magento_Eav' => 1,
+        'ChadaTraining_Ex3Orm' => 1,
+        'ChadaTraining_Ex4Service' => 1,
         'ChadaTraining_Ex4Snippet' => 1,
         'ChadaTraining_Ex5CustomerAccount' => 1,
         'ChadaTraining_Ex6Checkout' => 1,
