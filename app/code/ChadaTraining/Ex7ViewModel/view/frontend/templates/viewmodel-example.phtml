@@ -1,0 +1,15 @@
+<?php
+
+
+$viewModel = $block->getViewModel();
+$viewModel = $block->getDataUsingMethod( 'view_model'); //pseudo magic getter
+$viewModel = $block->getData('view_model'); //regular getter
+
+$arrayValues = $viewModel->getArrayValues();
+
+if ($arrayValues):
+    foreach ($arrayValues as $value):
+        echo $value;
+        echo "<br>";
+    endforeach;
+    endif;

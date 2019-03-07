@@ -4,6 +4,16 @@ return [
         'Magento_Store' => 1,
         'Magento_Directory' => 1,
         'Magento_Eav' => 1,
+        'ChadaTraining_Ex4Snippet' => 1,
+        'ChadaTraining_Ex5CustomerAccount' => 1,
+        'ChadaTraining_Ex6Checkout' => 1,
+        'ChadaTraining_Ex7ViewModel' => 1,
+        'ChadaTraining_LayoutEx' => 1,
+        'ChadaTraining_ResultsObject' => 1,
+        'ChadaTraining_RoutersList' => 1,
+        'ChadaTraining_SchemaCreation' => 1,
+        'ChadaTraining_TemplateBlock' => 1,
+        'ChadaTraining_UIComponents' => 1,
         'Magento_Theme' => 1,
         'Magento_Cms' => 1,
         'Magento_Customer' => 1,
@@ -144,6 +154,11 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistSampleData' => 1,
         'Temando_Shipping' => 1,
+        'TrainingUnit1_Ex1HelloWorld' => 1,
+        'TrainingUnit1_Ex3ClassPref' => 1,
+        'TrainingUnit1_Ex4Plugin' => 1,
+        'TrainingUnit1_Ex5Observer' => 1,
+        'TrainingUnit1_Ex7Cli' => 1,
         'Vertex_Tax' => 1
     ]
 ];
